@@ -23,9 +23,10 @@
 */
 
 html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
   line-height: 1.5;
-  /* font-family: 'Inter Web', 'Helvetica Neue', Helvetica, arial, sans-serif; */
   font-family: 'droid-serif', Georgia, serif;
   color: #5c6366;
   padding: 48px 24px 24px;
