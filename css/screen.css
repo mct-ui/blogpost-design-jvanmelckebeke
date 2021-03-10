@@ -66,6 +66,13 @@ img {
     Default markup for typographic elements
 */
 
+h1,
+h2,
+h3 {
+  color: #17181a;
+  font-family: 'Inter Web', 'Helvetica Neue', Helvetica, arial, sans-serif;
+}
+
 h1 {
   font-size: 36px;
   line-height: 40px;
@@ -82,13 +89,6 @@ h3 {
   font-size: 18px;
   line-height: 24px;
   margin: 0 0 24px;
-}
-
-h1,
-h2,
-h3 {
-  color: #17181a;
-  font-family: 'Inter Web', 'Helvetica Neue', Helvetica, arial, sans-serif;
 }
 
 h4,
